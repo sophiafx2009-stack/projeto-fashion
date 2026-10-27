@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+h1, p{
+
+    text-align: center;
+   
+}
+
+.etiqueta{
+    background-color: rgb(1, 1, 70);
+  
+}
