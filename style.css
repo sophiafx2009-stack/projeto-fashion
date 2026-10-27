@@ -16,7 +16,7 @@ body{
     margin-left: 250px;
 }
 
-h1, p{
+h1,h2, p{
 
     text-align: center;
    
@@ -49,6 +49,7 @@ h1, p{
     font-size: 20px;
     text-align: center;
     margin-left: 80px;
+    
 }
 
 .h2jacket{
@@ -88,4 +89,44 @@ h1, p{
     color: #015b79;
     text-decoration: none;
     
+}
+
+.fundo{
+    width: 1015px;
+    
+    
+    
+}
+
+.titulo{
+    font-size: 80;
+
+}
+
+.card{
+    padding: 24px;
+    background-image:url(bg_detalhe.png) ;
+    width: 1000px;
+    bottom: 100px;
+    margin: 30px;
+    
+   
+}
+
+.grade-cards{
+    
+    width: 1015;
+
+}
+
+.titulocard{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+
+.paragrafocard{
+    font-size: 30px;
+    color: white;
+   
 }
