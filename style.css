@@ -59,6 +59,7 @@ float: left;
     margin-right: 20px;
     color: #015b79;
     text-decoration: none;
+
     
 }
 
@@ -92,11 +93,12 @@ float: left;
 
 .titulocard{
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 50px;
 }
 
 .paragrafocard{
+    text-align: left;
     font-size: 30px;
     color: white;
    
