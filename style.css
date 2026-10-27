@@ -2,6 +2,14 @@
     box-sizing: border-box;
 }
 
+.cabecalho{
+    background-color: #003d52;
+    margin-bottom: 50px;
+
+}
+
+
+
 body{
 
     margin-right: 250px;
@@ -14,7 +22,70 @@ h1, p{
    
 }
 
-.etiqueta{
-    background-color: rgb(1, 1, 70);
+.ImagemInicio{
+    width: 1015px;
+}
+
+.modelos{
+   margin-left: 60px;
+   margin-bottom: 0px;
+   
+}
+
+.h2vest{
+    font-family: monospace;
+    font-size: 30px;
+    font-style: strong;
+    margin-left: 80px;
+}
+
+.SubtextosPequenosVest{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 80px;
+}
+
+.SubtextosPequenosJacket{
+    font-size: 20px;
+    text-align: center;
+    margin-left: 80px;
+}
+
+.h2jacket{
+    font-family: monospace;
+    font-size: 30px;
+    font-style: strong;
+    margin-left: 80px;
+    text-align: center;
   
+    
+}
+
+.h2JacketBlack{
+    font-family: monospace;
+    font-size: 30px;
+    font-style: strong;
+    text-align: right;
+
+}
+
+.SubtextosPequenosJacketBlack{
+ font-size: 20px;
+    text-align: right;
+    margin-right: 80px;
+
+}
+
+.etiqueta{
+    float: left;
+    margin-left: 70px;
+}
+
+.menu{
+    float: right;
+    padding-top: 10px;
+    margin-right: 20px;
+    color: #015b79;
+    text-decoration: none;
+    
 }
