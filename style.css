@@ -130,3 +130,21 @@ h1,h2, p{
     color: white;
    
 }
+
+.maps{
+    margin-left: 200px;
+}
+
+.rodape{
+    margin-top: 20px;
+    padding: 5px;
+    background-color: #003d52;
+}
+
+.rodape address{
+    font-style: normal;
+}
+
+.rodape a{
+    text-decoration: none;
+}
