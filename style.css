@@ -32,54 +32,25 @@ h1,h2, p{
    
 }
 
-.h2vest{
-    font-family: monospace;
-    font-size: 30px;
-    font-style: strong;
-    margin-left: 80px;
-}
+.descricaomodelos{
+    float: left;
+       margin-left: 150px;
+   margin-bottom: 0px;
 
-.SubtextosPequenosVest{
-    font-size: 20px;
-    text-align: left;
-    margin-left: 80px;
-}
-
-.SubtextosPequenosJacket{
-    font-size: 20px;
-    text-align: center;
-    margin-left: 80px;
-    
-}
-
-.h2jacket{
-    font-family: monospace;
-    font-size: 30px;
-    font-style: strong;
-    margin-left: 80px;
-    text-align: center;
-  
-    
-}
-
-.h2JacketBlack{
-    font-family: monospace;
-    font-size: 30px;
-    font-style: strong;
-    text-align: right;
 
 }
 
-.SubtextosPequenosJacketBlack{
- font-size: 20px;
-    text-align: right;
-    margin-right: 80px;
+.subtextos{
+float: left;
+       margin-left: 150px;
+   margin-bottom: 0px;
+   color: gray;
 
 }
-
 .etiqueta{
     float: left;
     margin-left: 70px;
+    
 }
 
 .menu{
